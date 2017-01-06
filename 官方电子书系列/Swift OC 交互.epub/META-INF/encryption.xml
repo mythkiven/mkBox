@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:encryption xmlns:c="urn:oasis:names:tc:opendocument:xmlns:container" xmlns:d="http://www.w3.org/2000/09/xmldsig#" xmlns:e="http://www.w3.org/2001/04/xmlenc#">
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/cover.jpg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/playbutton.svg"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/epub.css"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/svg.js"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/check.png"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Art/bridgingheader_2x.png"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Art/coredataeditor_2x.png"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Art/coredatanamespace_2x.png"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Art/DAG_2x.png"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Art/newproject_2x.png"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/nav.html"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/GettingStartedPart.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/BasicSetup.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/InteroperabilityPart.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/InteractingWithObjective-CAPIs.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/WritingSwiftClassesWithObjective-CBehavior.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/WorkingWithCocoaDataTypes.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/AdoptingCocoaDesignPatterns.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/InteractingWithCAPIs.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/MixandMatchPart.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/MixandMatch.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/MigrationPart.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/Migration.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/RevisionHistoryPart.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/RevisionHistory.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+  <e:EncryptedData>
+    <e:EncryptionMethod Algorithm="http://itunes.apple.com/dataenc"/>
+    <d:KeyInfo>
+      <d:KeyName>1</d:KeyName>
+    </d:KeyInfo>
+    <e:CipherData>
+      <e:CipherReference URI="OEBPS/trademark.xhtml"/>
+    </e:CipherData>
+  </e:EncryptedData>
+</c:encryption>

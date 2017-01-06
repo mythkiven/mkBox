@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="TP40014216" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>en</dc:language>
+    <dc:identifier id="TP40014216">//apple_ref/doc/uid/</dc:identifier>
+    <meta property="identifier-type" refines="#TP40014216">nil</meta>
+    <dc:title id="title1">Using Swift with Cocoa and Objective-C (Swift 3.0.1)</dc:title>
+    <meta property="title-type" refines="#title1">main</meta>
+    <dc:creator id="creator1">Apple Inc.</dc:creator>
+    <meta property="role" refines="#creator1">aut</meta>
+    <dc:publisher>Apple Inc.</dc:publisher>
+    <dc:date>2016-10-24T07:00:00Z</dc:date>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2016-10-24T17:19:47Z</meta>
+    <meta name="cover" content="item_cover"/>
+  </metadata>
+  <manifest>
+    <item id="item_cover" href="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="item_playbutton" href="playbutton.svg" media-type="image/svg+xml"/>
+    <item id="item_epub" href="epub.css" media-type="text/css"/>
+    <item id="item_svg" href="svg.js" media-type="text/javascript"/>
+    <item id="item_check" href="check.png" media-type="image/png"/>
+    <item id="item_bridgingheader_2x" href="Art/bridgingheader_2x.png" media-type="image/png"/>
+    <item id="item_coredataeditor_2x" href="Art/coredataeditor_2x.png" media-type="image/png"/>
+    <item id="item_coredatanamespace_2x" href="Art/coredatanamespace_2x.png" media-type="image/png"/>
+    <item id="item_DAG_2x" href="Art/DAG_2x.png" media-type="image/png"/>
+    <item id="item_newproject_2x" href="Art/newproject_2x.png" media-type="image/png"/>
+    <item id="item_nav" href="nav.html" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="item_GettingStartedPart" href="GettingStartedPart.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_BasicSetup" href="BasicSetup.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_InteroperabilityPart" href="InteroperabilityPart.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_InteractingWithObjective-CAPIs" href="InteractingWithObjective-CAPIs.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_WritingSwiftClassesWithObjective-CBehavior" href="WritingSwiftClassesWithObjective-CBehavior.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_WorkingWithCocoaDataTypes" href="WorkingWithCocoaDataTypes.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_AdoptingCocoaDesignPatterns" href="AdoptingCocoaDesignPatterns.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_InteractingWithCAPIs" href="InteractingWithCAPIs.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_MixandMatchPart" href="MixandMatchPart.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_MixandMatch" href="MixandMatch.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_MigrationPart" href="MigrationPart.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Migration" href="Migration.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_RevisionHistoryPart" href="RevisionHistoryPart.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_RevisionHistory" href="RevisionHistory.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_trademark" href="trademark.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="item_GettingStartedPart"/>
+    <itemref idref="item_BasicSetup"/>
+    <itemref idref="item_InteroperabilityPart"/>
+    <itemref idref="item_InteractingWithObjective-CAPIs"/>
+    <itemref idref="item_WritingSwiftClassesWithObjective-CBehavior"/>
+    <itemref idref="item_WorkingWithCocoaDataTypes"/>
+    <itemref idref="item_AdoptingCocoaDesignPatterns"/>
+    <itemref idref="item_InteractingWithCAPIs"/>
+    <itemref idref="item_MixandMatchPart"/>
+    <itemref idref="item_MixandMatch"/>
+    <itemref idref="item_MigrationPart"/>
+    <itemref idref="item_Migration"/>
+    <itemref idref="item_RevisionHistoryPart"/>
+    <itemref idref="item_RevisionHistory"/>
+    <itemref idref="item_trademark"/>
+  </spine>
+</package>

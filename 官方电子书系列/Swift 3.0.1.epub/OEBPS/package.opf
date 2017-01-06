@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="TP40014097" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>en</dc:language>
+    <dc:identifier id="TP40014097">//apple_ref/doc/uid/</dc:identifier>
+    <meta property="identifier-type" refines="#TP40014097">nil</meta>
+    <dc:title id="title1">The Swift Programming Language (Swift 3.0.1)</dc:title>
+    <meta property="title-type" refines="#title1">main</meta>
+    <dc:creator id="creator1">Apple Inc.</dc:creator>
+    <meta property="role" refines="#creator1">aut</meta>
+    <dc:publisher>Apple Inc.</dc:publisher>
+    <dc:date>2016-10-21T07:00:00Z</dc:date>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="dcterms:modified">2016-10-21T18:18:52Z</meta>
+    <meta name="cover" content="item_cover"/>
+  </metadata>
+  <manifest>
+    <item id="item_cover" href="cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="item_playbutton" href="playbutton.svg" media-type="image/svg+xml"/>
+    <item id="item_epub" href="epub.css" media-type="text/css"/>
+    <item id="item_svg" href="svg.js" media-type="text/javascript"/>
+    <item id="item_check" href="check.png" media-type="image/png"/>
+    <item id="item_barcode_QR_2x" href="Art/barcode_QR_2x.png" media-type="image/png"/>
+    <item id="item_barcode_UPC_2x" href="Art/barcode_UPC_2x.png" media-type="image/png"/>
+    <item id="item_bitshiftSigned_2x" href="Art/bitshiftSigned_2x.png" media-type="image/png"/>
+    <item id="item_bitshiftSignedAddition_2x" href="Art/bitshiftSignedAddition_2x.png" media-type="image/png"/>
+    <item id="item_bitshiftSignedFour_2x" href="Art/bitshiftSignedFour_2x.png" media-type="image/png"/>
+    <item id="item_bitshiftSignedMinusFour_2x" href="Art/bitshiftSignedMinusFour_2x.png" media-type="image/png"/>
+    <item id="item_bitshiftSignedMinusFourValue_2x" href="Art/bitshiftSignedMinusFourValue_2x.png" media-type="image/png"/>
+    <item id="item_bitshiftUnsigned_2x" href="Art/bitshiftUnsigned_2x.png" media-type="image/png"/>
+    <item id="item_bitwiseAND_2x" href="Art/bitwiseAND_2x.png" media-type="image/png"/>
+    <item id="item_bitwiseNOT_2x" href="Art/bitwiseNOT_2x.png" media-type="image/png"/>
+    <item id="item_bitwiseOR_2x" href="Art/bitwiseOR_2x.png" media-type="image/png"/>
+    <item id="item_bitwiseXOR_2x" href="Art/bitwiseXOR_2x.png" media-type="image/png"/>
+    <item id="item_chessBoard_2x" href="Art/chessBoard_2x.png" media-type="image/png"/>
+    <item id="item_closureReferenceCycle01_2x" href="Art/closureReferenceCycle01_2x.png" media-type="image/png"/>
+    <item id="item_closureReferenceCycle02_2x" href="Art/closureReferenceCycle02_2x.png" media-type="image/png"/>
+    <item id="item_CollectionTypes_intro_2x" href="Art/CollectionTypes_intro_2x.png" media-type="image/png"/>
+    <item id="item_computedProperties_2x" href="Art/computedProperties_2x.png" media-type="image/png"/>
+    <item id="item_coordinateGraphComplex_2x" href="Art/coordinateGraphComplex_2x.png" media-type="image/png"/>
+    <item id="item_coordinateGraphMedium_2x" href="Art/coordinateGraphMedium_2x.png" media-type="image/png"/>
+    <item id="item_coordinateGraphSimple_2x" href="Art/coordinateGraphSimple_2x.png" media-type="image/png"/>
+    <item id="item_initializerDelegation01_2x" href="Art/initializerDelegation01_2x.png" media-type="image/png"/>
+    <item id="item_initializerDelegation02_2x" href="Art/initializerDelegation02_2x.png" media-type="image/png"/>
+    <item id="item_initializersExample01_2x" href="Art/initializersExample01_2x.png" media-type="image/png"/>
+    <item id="item_initializersExample02_2x" href="Art/initializersExample02_2x.png" media-type="image/png"/>
+    <item id="item_initializersExample03_2x" href="Art/initializersExample03_2x.png" media-type="image/png"/>
+    <item id="item_overflowAddition_2x" href="Art/overflowAddition_2x.png" media-type="image/png"/>
+    <item id="item_overflowSignedSubtraction_2x" href="Art/overflowSignedSubtraction_2x.png" media-type="image/png"/>
+    <item id="item_overflowUnsignedSubtraction_2x" href="Art/overflowUnsignedSubtraction_2x.png" media-type="image/png"/>
+    <item id="item_referenceCycle01_2x" href="Art/referenceCycle01_2x.png" media-type="image/png"/>
+    <item id="item_referenceCycle02_2x" href="Art/referenceCycle02_2x.png" media-type="image/png"/>
+    <item id="item_referenceCycle03_2x" href="Art/referenceCycle03_2x.png" media-type="image/png"/>
+    <item id="item_remainderInteger_2x" href="Art/remainderInteger_2x.png" media-type="image/png"/>
+    <item id="item_setEulerDiagram_2x" href="Art/setEulerDiagram_2x.png" media-type="image/png"/>
+    <item id="item_setVennDiagram_2x" href="Art/setVennDiagram_2x.png" media-type="image/png"/>
+    <item id="item_snakesAndLadders_2x" href="Art/snakesAndLadders_2x.png" media-type="image/png"/>
+    <item id="item_stackPoppedOneString_2x" href="Art/stackPoppedOneString_2x.png" media-type="image/png"/>
+    <item id="item_stackPushedFourStrings_2x" href="Art/stackPushedFourStrings_2x.png" media-type="image/png"/>
+    <item id="item_stackPushPop_2x" href="Art/stackPushPop_2x.png" media-type="image/png"/>
+    <item id="item_staticPropertiesVUMeter_2x" href="Art/staticPropertiesVUMeter_2x.png" media-type="image/png"/>
+    <item id="item_subscriptMatrix01_2x" href="Art/subscriptMatrix01_2x.png" media-type="image/png"/>
+    <item id="item_subscriptMatrix02_2x" href="Art/subscriptMatrix02_2x.png" media-type="image/png"/>
+    <item id="item_twoPhaseInitialization01_2x" href="Art/twoPhaseInitialization01_2x.png" media-type="image/png"/>
+    <item id="item_twoPhaseInitialization02_2x" href="Art/twoPhaseInitialization02_2x.png" media-type="image/png"/>
+    <item id="item_UnicodeScalar_2x" href="Art/UnicodeScalar_2x.png" media-type="image/png"/>
+    <item id="item_unownedReference01_2x" href="Art/unownedReference01_2x.png" media-type="image/png"/>
+    <item id="item_unownedReference02_2x" href="Art/unownedReference02_2x.png" media-type="image/png"/>
+    <item id="item_UTF16_2x" href="Art/UTF16_2x.png" media-type="image/png"/>
+    <item id="item_UTF8_2x" href="Art/UTF8_2x.png" media-type="image/png"/>
+    <item id="item_vectorAddition_2x" href="Art/vectorAddition_2x.png" media-type="image/png"/>
+    <item id="item_weakReference01_2x" href="Art/weakReference01_2x.png" media-type="image/png"/>
+    <item id="item_weakReference02_2x" href="Art/weakReference02_2x.png" media-type="image/png"/>
+    <item id="item_weakReference03_2x" href="Art/weakReference03_2x.png" media-type="image/png"/>
+    <item id="item_nav" href="nav.html" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="item_GuidedTourPart" href="GuidedTourPart.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_AboutSwift" href="AboutSwift.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_GuidedTour" href="GuidedTour.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_LanguageGuidePart" href="LanguageGuidePart.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_TheBasics" href="TheBasics.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_BasicOperators" href="BasicOperators.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_StringsAndCharacters" href="StringsAndCharacters.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_CollectionTypes" href="CollectionTypes.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_ControlFlow" href="ControlFlow.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Functions" href="Functions.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Closures" href="Closures.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Enumerations" href="Enumerations.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_ClassesAndStructures" href="ClassesAndStructures.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Properties" href="Properties.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Methods" href="Methods.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Subscripts" href="Subscripts.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Inheritance" href="Inheritance.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Initialization" href="Initialization.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Deinitialization" href="Deinitialization.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_AutomaticReferenceCounting" href="AutomaticReferenceCounting.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_OptionalChaining" href="OptionalChaining.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_ErrorHandling" href="ErrorHandling.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_TypeCasting" href="TypeCasting.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_NestedTypes" href="NestedTypes.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Extensions" href="Extensions.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Protocols" href="Protocols.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Generics" href="Generics.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_AccessControl" href="AccessControl.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_AdvancedOperators" href="AdvancedOperators.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_ReferenceManualPart" href="ReferenceManualPart.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_AboutTheLanguageReference" href="AboutTheLanguageReference.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_LexicalStructure" href="LexicalStructure.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Types" href="Types.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Expressions" href="Expressions.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Statements" href="Statements.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Declarations" href="Declarations.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Attributes" href="Attributes.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_Patterns" href="Patterns.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_GenericParametersAndArguments" href="GenericParametersAndArguments.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_zzSummaryOfTheGrammar" href="zzSummaryOfTheGrammar.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_RevisionHistoryPart" href="RevisionHistoryPart.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_RevisionHistory" href="RevisionHistory.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="item_trademark" href="trademark.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="item_GuidedTourPart"/>
+    <itemref idref="item_AboutSwift"/>
+    <itemref idref="item_GuidedTour"/>
+    <itemref idref="item_LanguageGuidePart"/>
+    <itemref idref="item_TheBasics"/>
+    <itemref idref="item_BasicOperators"/>
+    <itemref idref="item_StringsAndCharacters"/>
+    <itemref idref="item_CollectionTypes"/>
+    <itemref idref="item_ControlFlow"/>
+    <itemref idref="item_Functions"/>
+    <itemref idref="item_Closures"/>
+    <itemref idref="item_Enumerations"/>
+    <itemref idref="item_ClassesAndStructures"/>
+    <itemref idref="item_Properties"/>
+    <itemref idref="item_Methods"/>
+    <itemref idref="item_Subscripts"/>
+    <itemref idref="item_Inheritance"/>
+    <itemref idref="item_Initialization"/>
+    <itemref idref="item_Deinitialization"/>
+    <itemref idref="item_AutomaticReferenceCounting"/>
+    <itemref idref="item_OptionalChaining"/>
+    <itemref idref="item_ErrorHandling"/>
+    <itemref idref="item_TypeCasting"/>
+    <itemref idref="item_NestedTypes"/>
+    <itemref idref="item_Extensions"/>
+    <itemref idref="item_Protocols"/>
+    <itemref idref="item_Generics"/>
+    <itemref idref="item_AccessControl"/>
+    <itemref idref="item_AdvancedOperators"/>
+    <itemref idref="item_ReferenceManualPart"/>
+    <itemref idref="item_AboutTheLanguageReference"/>
+    <itemref idref="item_LexicalStructure"/>
+    <itemref idref="item_Types"/>
+    <itemref idref="item_Expressions"/>
+    <itemref idref="item_Statements"/>
+    <itemref idref="item_Declarations"/>
+    <itemref idref="item_Attributes"/>
+    <itemref idref="item_Patterns"/>
+    <itemref idref="item_GenericParametersAndArguments"/>
+    <itemref idref="item_zzSummaryOfTheGrammar"/>
+    <itemref idref="item_RevisionHistoryPart"/>
+    <itemref idref="item_RevisionHistory"/>
+    <itemref idref="item_trademark"/>
+  </spine>
+</package>

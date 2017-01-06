@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apple-id</key>
+	<string>jxc250@live.com</string>
+	<key>artistId</key>
+	<integer>405307759</integer>
+	<key>artistName</key>
+	<string>Apple Inc.</string>
+	<key>asset-info</key>
+	<dict>
+		<key>file-size</key>
+		<integer>934366</integer>
+		<key>flavor</key>
+		<string>pub</string>
+	</dict>
+	<key>book-info</key>
+	<dict>
+		<key>PageProgression</key>
+		<string>default</string>
+		<key>asset-info</key>
+		<dict>
+			<key>file-size</key>
+			<integer>934366</integer>
+			<key>flavor</key>
+			<string>pub</string>
+		</dict>
+		<key>publication-version</key>
+		<integer>162368174</integer>
+	</dict>
+	<key>cover-writing-mode</key>
+	<string>horizontal</string>
+	<key>desktopSupportLevel</key>
+	<string>supported</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>explicit</key>
+	<integer>2</integer>
+	<key>fileExtension</key>
+	<string>epub</string>
+	<key>genre</key>
+	<string>Programming</string>
+	<key>genreId</key>
+	<integer>10023</integer>
+	<key>isbn</key>
+	<string>9781106041340</string>
+	<key>itemId</key>
+	<integer>888894773</integer>
+	<key>itemName</key>
+	<string>Using Swift with Cocoa and Objective-C (Swift 3.0.1)</string>
+	<key>kind</key>
+	<string>ebook</string>
+	<key>longDescription</key>
+	<string>Swift is a programming language for iOS, macOS, watchOS, and tvOS app development. It is designed to seamlessly integrate with Cocoa, Cocoa Touch, and Objective-C, allowing you to use the same familiar classes, patterns, and practices to build apps. Swift makes working with Cocoa and Objective-C safer, faster, easier, and more fun.&amp;#xa0;&lt;br /&gt;&lt;br /&gt;
+This book provides:&lt;br /&gt;
+– An overview of a Swift Xcode project&lt;br /&gt;
+– Design patterns and best practices for working with Cocoa, Objective-C, and C&lt;br /&gt;
+– Step–by–step instructions to use Swift and Objective-C in the same app&lt;br /&gt;
+– Strategies to migrate your Objective-C code to Swift</string>
+	<key>obeyPageBreaks</key>
+	<integer>1</integer>
+	<key>pageCount</key>
+	<integer>100</integer>
+	<key>primaryLanguage</key>
+	<string>en</string>
+	<key>publisher</key>
+	<string>Apple Inc.</string>
+	<key>purchaseDate</key>
+	<string>2017-01-05T02:07:12Z</string>
+	<key>releaseDate</key>
+	<string>2014-06-02T07:00:00Z</string>
+	<key>s</key>
+	<integer>143441</integer>
+	<key>scroll-axis</key>
+	<string>default</string>
+	<key>seriesAdamId</key>
+	<integer>888896989</integer>
+	<key>seriesSequenceDisplaySuppress</key>
+	<false/>
+	<key>seriesTitle</key>
+	<string>Swift Programming Series</string>
+	<key>shouldDisableOptimizeSpeed</key>
+	<true/>
+	<key>shouldDisableTouchEmulation</key>
+	<true/>
+	<key>sort-artist</key>
+	<string>Apple Inc.</string>
+	<key>sort-name</key>
+	<string>Using Swift with Cocoa and Objective-C (Swift 3.0.1)</string>
+	<key>vendorId</key>
+	<integer>379015</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+	<key>year</key>
+	<integer>2014</integer>
+</dict>
+</plist>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apple-id</key>
+	<string>jxc250@live.com</string>
+	<key>artistId</key>
+	<integer>405307759</integer>
+	<key>artistName</key>
+	<string>Apple Inc.</string>
+	<key>asset-info</key>
+	<dict>
+		<key>file-size</key>
+		<integer>3845988</integer>
+		<key>flavor</key>
+		<string>pub</string>
+	</dict>
+	<key>book-info</key>
+	<dict>
+		<key>PageProgression</key>
+		<string>default</string>
+		<key>asset-info</key>
+		<dict>
+			<key>file-size</key>
+			<integer>3845988</integer>
+			<key>flavor</key>
+			<string>pub</string>
+		</dict>
+		<key>publication-version</key>
+		<integer>162368199</integer>
+	</dict>
+	<key>cover-writing-mode</key>
+	<string>horizontal</string>
+	<key>desktopSupportLevel</key>
+	<string>supported</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>explicit</key>
+	<integer>2</integer>
+	<key>fileExtension</key>
+	<string>epub</string>
+	<key>genre</key>
+	<string>Programming</string>
+	<key>genreId</key>
+	<integer>10023</integer>
+	<key>isbn</key>
+	<string>9781106041333</string>
+	<key>itemId</key>
+	<integer>881256329</integer>
+	<key>itemName</key>
+	<string>The Swift Programming Language (Swift 3.0.1)</string>
+	<key>kind</key>
+	<string>ebook</string>
+	<key>longDescription</key>
+	<string>Swift is a programming language for creating iOS, macOS, watchOS, and tvOS apps. Swift builds on the best of C and Objective-C, without the constraints of C compatibility. Swift adopts safe programming patterns and adds modern features to make programming easier, more flexible, and more fun. Swift’s clean slate, backed by the mature and much-loved Cocoa and Cocoa Touch frameworks, is an opportunity to reimagine how software development works.&lt;br /&gt;&lt;br /&gt;
+This book provides:&lt;br /&gt;
+- A tour of the language.&lt;br /&gt;
+- A detailed guide delving into each language feature.&lt;br /&gt;
+- A formal reference for the language.</string>
+	<key>obeyPageBreaks</key>
+	<integer>1</integer>
+	<key>pageCount</key>
+	<integer>500</integer>
+	<key>primaryLanguage</key>
+	<string>en</string>
+	<key>publisher</key>
+	<string>Apple Inc.</string>
+	<key>purchaseDate</key>
+	<string>2017-01-05T02:07:06Z</string>
+	<key>releaseDate</key>
+	<string>2014-06-02T07:00:00Z</string>
+	<key>s</key>
+	<integer>143441</integer>
+	<key>scroll-axis</key>
+	<string>default</string>
+	<key>seriesAdamId</key>
+	<integer>888896989</integer>
+	<key>seriesSequenceDisplaySuppress</key>
+	<false/>
+	<key>seriesTitle</key>
+	<string>Swift Programming Series</string>
+	<key>shouldDisableOptimizeSpeed</key>
+	<true/>
+	<key>shouldDisableTouchEmulation</key>
+	<true/>
+	<key>sort-artist</key>
+	<string>Apple Inc.</string>
+	<key>sort-name</key>
+	<string>Swift Programming Language (Swift 3.0.1)</string>
+	<key>vendorId</key>
+	<integer>379015</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+	<key>year</key>
+	<integer>2014</integer>
+</dict>
+</plist>
