@@ -18,7 +18,14 @@ Using Swift with Cocoa and Objective-C
 直接下载到本地即可使用iBook观看~
 
 
-## [Swift3.0 官方入门代码]()
+## [Swift3.0 官方入门教程代码](https://github.com/mythkiven/SourceOfSwift/tree/master/Swift%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97)
+
+直接下载本地，使用xcode即可编译
+
+## 后续：小白的Swift入门教程
+
+- 喜欢的话，就右上角点击小星星哦
+- 欢迎点击右上角的小眼睛，我这边更新的Swift资源，都可以收到通知的~
 
 
 
