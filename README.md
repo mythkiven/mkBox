@@ -23,7 +23,7 @@ Using Swift with Cocoa and Objective-C
 
 ## [Swift3.0 官方入门教程代码](https://github.com/mythkiven/SourceOfSwift/tree/master/Swift%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E7%B3%BB%E5%88%97)
 
-这个是手把手教你使用Swift的demo哦~
+官方出品，必属精品。
 
 
 ## 后续：小白的Swift入门教程
