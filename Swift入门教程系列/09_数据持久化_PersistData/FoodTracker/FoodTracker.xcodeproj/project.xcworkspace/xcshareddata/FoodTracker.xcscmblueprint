@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "102003F46CCB47B80EB9915B0D42AAB30B2B1018",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "102003F46CCB47B80EB9915B0D42AAB30B2B1018" : 9223372036854775807,
+    "EFFC378D676A8C7D60853A9DC05B16B17EA9AA82" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3B4EE6E3-7411-4278-B50F-9A88E974DD36",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "102003F46CCB47B80EB9915B0D42AAB30B2B1018" : "SourceOfSwift\/",
+    "EFFC378D676A8C7D60853A9DC05B16B17EA9AA82" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FoodTracker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Swift入门教程系列\/09_数据持久化_PersistData\/FoodTracker\/FoodTracker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mythkiven\/SourceOfSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "102003F46CCB47B80EB9915B0D42AAB30B2B1018"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mythkiven\/getFund.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EFFC378D676A8C7D60853A9DC05B16B17EA9AA82"
+    }
+  ]
+}
