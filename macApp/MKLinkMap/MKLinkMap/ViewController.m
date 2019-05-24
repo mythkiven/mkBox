@@ -39,13 +39,13 @@ NSString *const defaultString = @"使用方法：\n\
 2. 工程编译完成后，在指定的位置找到 Link Map 文件（默认名称:$(PRODUCT_NAME)-LinkMap-$(CURRENT_VARIANT)-$(CURRENT_ARCH).txt） \n\
 默认的文件地址：~/Library/Developer/Xcode/DerivedData/xxxxxxxxxxxx/Build/Intermediates/XXX.build/Debug-iphoneos/XXX.build/ \n\
 \n\
-3. 回到本应用，点击 \"选择文件\"，选择 Link Map 文件  \n\
+3. 然后在本应用，导入 Link Map 文件   \n\
 4. 点击 \"分析\"，解析 Link Map 文件 \n\
-5. 点击 \"格式化输出\"，会输出经过处理后，易于阅读的  Link Map 文件(文件过大时，输出可能需要几分钟时间) \n\
+5. 点击 \"格式化输出\"，会输出经过处理后，易于阅读的 Link Map 文件(文件过大时，输出可能需要几分钟时间) \n\
 6. 点击 \"输出文件\"，会输出经统计后的 Link Map 文件 \n\
 \n\
-6. 搜索功能：输入目标文件的关键字，然后点击 \"分析\"\n\
-7. 按库分析：勾选 \"按库统计\"，然后点击 \"分析\"\n\
+7. 搜索功能：输入目标文件的关键字，然后点击 \"分析\"\n\
+8. 按库分析：勾选 \"按库统计\"，然后点击 \"分析\"\n\
 \n\
 源码参见：https://github.com/mythkiven/mkBox";
 
