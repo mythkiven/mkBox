@@ -9,11 +9,14 @@
 - -  [Dynamic Library Programming Topics](./runtime/DynamicLibraryProgrammingTopics.pdf)
 
 
-### MacApp
+*** Mac App
+------
+___
+
+
+### 1. MKLinkMap : iOS Link Map 文件分析工具,实现了统计代码使用情况及大小等功能。
 
 ![](./source/icon_macapp.png)
-
-####  1.  iOS Link Map 文件分析工具：**MKLinkMap** 实现代码使用情况及大小等统计分析功能。
 
 使用方法：
 1. 在 XCode 中开启编译选项 Write Link Map File : XCode -> Project -> Build Settings ->  Write Link Map File 设为 yes，并指定好 linkMap 的存储位置
