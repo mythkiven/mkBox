@@ -38,4 +38,5 @@ ___
 
 [下载地址](https://github.com/mythkiven/mkBox/releases/tag/V1.0.0)
 
+[参考](https://github.com/huanxsd/LinkMap)
 > 下一个功能预告：__dYSM 解析
