@@ -18,6 +18,10 @@ ___
 
 ![](./source/icon_macapp.png)
 
+
+//支持 xcarchive 文件和 dSYM 文件。
+
+
 ### [PKG安装文件下载地址](https://github.com/mythkiven/mkBox/releases/tag/V1.0.0)
 
 1. 解析 Link Map 文件：
