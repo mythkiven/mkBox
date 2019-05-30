@@ -37,6 +37,6 @@ ___
 2. 工程编译完成后，在指定的位置找到 Link Map 文件（默认名称:$(PRODUCT_NAME)-LinkMap-$(CURRENT_VARIANT)-$(CURRENT_ARCH).txt）
 默认的文件地址：~/Library/Developer/Xcode/DerivedData/xxxxxxxxxxxx/Build/Intermediates/XXX.build/Debug-iphoneos/XXX.build/
 
-![](https://raw.githubusercontent.com/mythkiven/mkBox/master/source/dsym8945878483.png)
+![](https://raw.githubusercontent.com/mythkiven/mkBox/master/source/linkmap03445423.png)
 
 支持按关键字搜索、按库分组统计。
