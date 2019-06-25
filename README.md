@@ -1,7 +1,7 @@
 
 ![](./source/icon_mkbox.png)
 
-- [MacApp](./macApp/README.md): Includes analysis tools such as [MKAppTool](https://github.com/mythkiven/MKAppTool)
+- [MacApp](./macApp/README.md): Includes analysis tools such as [MKAppTool](https://github.com/mythkiven/mkBox/releases/tag/MKAppTool)
 - [Swift](./swift)
 - [Script](./script) : Contains common scripting tools such as [mkTranslate](https://github.com/mythkiven/mkTranslate)
 - [Runtime](./runtime)
@@ -12,7 +12,7 @@
 
 | App | Des | Remark |
 | --- | --- | --- |
-| [MKAppTool](https://github.com/mythkiven/MKAppTool) | Analysis tools for .dSYM files, .xcarchive files, and Link Map files | - |
+| [MKAppTool](https://github.com/mythkiven/mkBox/releases/tag/MKAppTool) | Analysis tools for .dSYM files, .xcarchive files, and Link Map files | - |
 |  |  |  |
 
 ### Script
