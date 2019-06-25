@@ -12,7 +12,7 @@
 
 | App | Des | Remark |
 | --- | --- | --- |
-| MKAppTool | Analysis tools for .dSYM files, .xcarchive files, and Link Map files | - |
+| [MKAppTool](https://github.com/mythkiven/MKAppTool) | Analysis tools for .dSYM files, .xcarchive files, and Link Map files | - |
 |  |  |  |
 
 ### Script
