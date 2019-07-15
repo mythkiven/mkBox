@@ -24,6 +24,13 @@
 | | | |
 
 
+### 小程序
+
+实用性小工具，主要功能:1、搜索垃圾种类、拍照识别垃圾、上传新的垃圾数据，垃圾分类贡献榜；2、AI颜值分析、AI识别物体；3、AI智能闲聊；4、搜索附近；5、单词查询等功能。
+[更多戳这里](./js/REAFME.md)
+
+扫码体验
+![](https://github.com/mythkiven/tmp/raw/master/resource/img/wechat/%E5%AE%9E%E7%94%A8%E6%80%A7%E5%B0%8F%E5%B7%A5%E5%85%B7.png)
 
 
 
