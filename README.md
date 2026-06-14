@@ -1,3 +1,12 @@
+# mkBox | macOS & iOS Developer Toolbox
+
+Collection of Mac apps, Python packages, and scripts for iOS/macOS developers: [MKAppTool](https://github.com/mythkiven/mkBox/releases/tag/MKAppTool) (dSYM / xcarchive / LinkMap analysis), [mkTranslate](https://github.com/mythkiven/mkTranslate), [mkAppleOpenSourceDownload](https://github.com/mythkiven/mkAppleOpenSourceDownload), runtime docs, and utilities.
+
+Keywords: dsym analyzer mac, linkmap analysis, ios crash tools, macos devtools, xcode utilities
+
+## Quick Start
+
+Download [MKAppTool.pkg](https://github.com/mythkiven/mkBox/releases/download/MKAppTool/MKAppTool.pkg) for crash symbolication and LinkMap size analysis.
 
 ![](./source/icon_mkbox.png)
 
