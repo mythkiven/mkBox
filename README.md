@@ -8,6 +8,16 @@ Keywords: dsym analyzer mac, linkmap analysis, ios crash tools, macos devtools, 
 
 Download [MKAppTool.pkg](https://github.com/mythkiven/mkBox/releases/download/MKAppTool/MKAppTool.pkg) for crash symbolication and LinkMap size analysis.
 
+### MKAppTool.pkg install blocked on macOS?
+
+If macOS says the package is damaged or should be moved to Trash (common on 10.14–10.15 with unsigned builds):
+
+1. **Right-click → Open** the `.pkg`, then confirm **Open**
+2. Or remove quarantine: `xattr -cr ~/Downloads/MKAppTool.pkg && open ~/Downloads/MKAppTool.pkg`
+3. Or build from source: [MKAppTool](https://github.com/mythkiven/MKAppTool) / clone this repo and open the Xcode project under `macApp`
+
+See [scripts/install-mkapptool.sh](./scripts/install-mkapptool.sh) for a one-liner helper.
+
 ![](./source/icon_mkbox.png)
 
 - [MacApp](./macApp/README.md): Includes analysis tools such as [MKAppTool](https://github.com/mythkiven/mkBox/releases/tag/MKAppTool)
