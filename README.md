@@ -24,6 +24,7 @@ See [scripts/install-mkapptool.sh](./scripts/install-mkapptool.sh) for a one-lin
 
 ![](./source/icon_mkbox.png)
 
+- [Runtime](./runtime): Mach-O and dynamic library notes
 - [MacApp](./macApp/README.md): Includes analysis tools such as [MKAppTool](https://github.com/mythkiven/mkBox/releases/tag/MKAppTool)
 - [Swift](./swift)
 - [Script](./script) : Contains common scripting tools such as [mkTranslate](https://github.com/mythkiven/mkTranslate)
