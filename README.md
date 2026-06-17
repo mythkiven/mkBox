@@ -18,6 +18,8 @@ If macOS says the package is damaged or should be moved to Trash (common on 10.1
 
 See [scripts/install-mkapptool.sh](./scripts/install-mkapptool.sh) for a one-liner helper.
 
+**Note:** MKAppTool runs on macOS 10.14+.
+
 ![](./source/icon_mkbox.png)
 
 - [MacApp](./macApp/README.md): Includes analysis tools such as [MKAppTool](https://github.com/mythkiven/mkBox/releases/tag/MKAppTool)
