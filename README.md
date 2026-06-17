@@ -20,6 +20,8 @@ If macOS says the package is damaged or should be moved to Trash (common on 10.1
 
 See [scripts/install-mkapptool.sh](./scripts/install-mkapptool.sh) for a one-liner helper.
 
+More scripts: [scripts/](./scripts/) and [script/](./script/).
+
 **Note:** MKAppTool runs on macOS 10.14+.
 
 ![](./source/icon_mkbox.png)
