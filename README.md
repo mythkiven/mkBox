@@ -10,6 +10,8 @@ Download [MKAppTool.pkg](https://github.com/mythkiven/mkBox/releases/download/MK
 
 Browse all releases: [mkBox Releases](https://github.com/mythkiven/mkBox/releases).
 
+For LinkMap analysis in Xcode, enable **Write Link Map File** under Build Settings before building.
+
 ### MKAppTool.pkg install blocked on macOS?
 
 If macOS says the package is damaged or should be moved to Trash (common on 10.14–10.15 with unsigned builds):
