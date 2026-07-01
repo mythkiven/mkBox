@@ -26,6 +26,11 @@ More scripts: [scripts/](./scripts/) and [script/](./script/).
 
 **Note:** MKAppTool runs on macOS 10.14+.
 
+### Crash symbolication tips
+
+Export the crash log from **Console.app** or Xcode Organizer before opening MKAppTool.
+For local builds, `.xcarchive` bundles are usually under `~/Library/Developer/Xcode/Archives/`.
+
 ![](./source/icon_mkbox.png)
 
 - [Runtime](./runtime): Mach-O and dynamic library notes
